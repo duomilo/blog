@@ -16,7 +16,8 @@ hasCJKLanguage: true
 languages:
     zh-cn:
         languageName: 中文
-        title: duomilo's Blog
+#        title: duomilo's Blog
+        title: Duomilo
         weight: 1
         params:
             description: 无限进步.✍️
